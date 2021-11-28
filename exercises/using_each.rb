@@ -5,3 +5,13 @@
 
 students = ["Megan", "Bob", "Mike"]
 # your code below
+
+
+
+
+
+# Once you have your code written out:
+# What will the return value be:
+# - the first iteration through?
+# - the second iteration through?
+# - the third iteration through?
