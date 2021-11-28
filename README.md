@@ -41,7 +41,7 @@ In `exercises` folder you will see the following files. For the purposes of the 
   names.each do |name|
     puts name
   end
-```
+  ```
 
 - In your terminal make sure that you `cd` into the directory that you created and put your cloned repository into. Then `cd each`.
 - In your terminal you will follow this format to run the file and have it print:
