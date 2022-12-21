@@ -10,7 +10,7 @@ puts total
 
 
 # Using the example above:
-# 1. What is our collection?
-# 2. What is our accumulator total doing?
-# 3. What do you think is happening in the block on line 6?
-# 4. What will our output be from line 9?
+# 1. What is our collection? - Numbers
+# 2. What is our accumulator total doing? It is going to take in the numbers from our code block.
+# 3. What do you think is happening in the block on line 6? number is being added into the accumulator.
+# 4. What will our output be from line 9? the sum of the numbers array.
