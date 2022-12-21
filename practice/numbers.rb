@@ -31,5 +31,13 @@ numbers.each do |num|
 end
 
 # 5. Can you find the the sum of the numbers?
+total = 0
+
+numbers.each do |number|
+  total += number
+end
+
+puts total
+
 p numbers.reduce(:+)
 p numbers.inject { |sum, n| sum + n }
