@@ -13,5 +13,8 @@ students.each do |student|
 # Once you have your code written out:
 # What will the return value be:
 # - the first iteration through?
+  # Megan
 # - the second iteration through?
+  # Bob
 # - the third iteration through?
+  # Mike
